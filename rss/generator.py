@@ -1,4 +1,4 @@
-import xml.etree.ElementTree as ET
+from lxml import etree
 from datetime import datetime
 from email.utils import formatdate
 from typing import List, Dict, Any, Optional
@@ -39,30 +39,38 @@ class RssGenerator:
             last_build_date = formatdate(datetime.now().timestamp())
 
         # Build the RSS structure
-        rss = ET.Element("rss", version="2.0", attrib={"xmlns:atom": "http://www.w3.org/2005/Atom"})
-        channel = ET.SubElement(rss, "channel")
+        NSMAP = {
+            "atom": "http://www.w3.org/2005/Atom",
+            "content": "http://purl.org/rss/1.0/modules/content/",
+            "dc": "http://purl.org/dc/elements/1.1/"
+        }
+        rss = etree.Element("rss", version="2.0", nsmap=NSMAP)
+        channel = etree.SubElement(rss, "channel")
 
-        ET.SubElement(channel, "title").text = self.channel_title
-        ET.SubElement(channel, "link").text = self.channel_link
-        ET.SubElement(channel, "description").text = self.channel_description
-        ET.SubElement(channel, "lastBuildDate").text = last_build_date
+        etree.SubElement(channel, "title").text = self.channel_title
+        etree.SubElement(channel, "link").text = self.channel_link
+        etree.SubElement(channel, "description").text = etree.CDATA(self.channel_description)
+        etree.SubElement(channel, "lastBuildDate").text = last_build_date
         
-        # Add self-referencing atom link with the absolute URL
-        atom_link = ET.SubElement(channel, "atom:link")
+        atom_link = etree.SubElement(channel, etree.QName(NSMAP["atom"], "link"))
         atom_link.set("href", self.feed_url)
         atom_link.set("rel", "self")
         atom_link.set("type", "application/rss+xml")
 
         # Add items, respecting max_items
         for item_data in sorted_item_data[:max_items]:
-            item_elem = ET.Element("item")
+            item_elem = etree.SubElement(channel, "item")
 
-            ET.SubElement(item_elem, "title").text = item_data.get("title", "No Title")
-            ET.SubElement(item_elem, "link").text = item_data.get("link", "")
-            ET.SubElement(item_elem, "guid").text = item_data.get("id") or item_data.get("link")
-            ET.SubElement(item_elem, "description").text = item_data.get("description", "")
+            etree.SubElement(item_elem, "title").text = item_data.get("title", "No Title")
+            etree.SubElement(item_elem, "link").text = item_data.get("link", "")
             
-            pub_date_elem = ET.SubElement(item_elem, "pubDate")
+            guid_elem = etree.SubElement(item_elem, "guid")
+            guid_elem.text = item_data.get("id") or item_data.get("link")
+            guid_elem.set("isPermaLink", "true")
+
+            etree.SubElement(item_elem, "description").text = etree.CDATA(item_data.get("description", ""))
+            
+            pub_date_elem = etree.SubElement(item_elem, "pubDate")
             
             # Ensure the date is parsed and then formatted consistently
             parsed_date = parse_date(item_data)
@@ -71,12 +79,9 @@ class RssGenerator:
             else:
                 pub_date_elem.text = "No Date Available"
 
-            channel.append(item_elem)
-
         # Write to file
-        tree = ET.ElementTree(rss)
-        ET.indent(tree, space="  ", level=0)
-        tree.write(self.filename, encoding="utf-8", xml_declaration=True)
+        tree = etree.ElementTree(rss)
+        tree.write(self.filename, pretty_print=True, xml_declaration=True, encoding="utf-8")
 
         print(f"RSS feed updated. Total items: {len(channel.findall('item'))}")
 

@@ -1,0 +1,12 @@
+.direnv
+__pycache__
+ema_updates.xml
+ema_official.xml
+*.pyc
+*.pyo
+.DS_Store
+.envrc
+*.xlsx
+ema_monitor_state.json
+monitors/__pycache__/
+rss/__pycache__/
