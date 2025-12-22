@@ -31,6 +31,13 @@ class RssGenerator:
 
         sorted_item_data = sorted(all_items, key=parse_date, reverse=True)
 
+        # Determine the last build date from the newest item
+        if sorted_item_data:
+            latest_date = parse_date(sorted_item_data[0])
+            last_build_date = formatdate(latest_date.timestamp())
+        else:
+            last_build_date = formatdate(datetime.now().timestamp())
+
         # Build the RSS structure
         rss = ET.Element("rss", version="2.0", attrib={"xmlns:atom": "http://www.w3.org/2005/Atom"})
         channel = ET.SubElement(rss, "channel")
@@ -38,7 +45,7 @@ class RssGenerator:
         ET.SubElement(channel, "title").text = self.channel_title
         ET.SubElement(channel, "link").text = self.channel_link
         ET.SubElement(channel, "description").text = self.channel_description
-        ET.SubElement(channel, "lastBuildDate").text = formatdate(datetime.now().timestamp())
+        ET.SubElement(channel, "lastBuildDate").text = last_build_date
         
         # Add self-referencing atom link with the absolute URL
         atom_link = ET.SubElement(channel, "atom:link")
@@ -56,7 +63,13 @@ class RssGenerator:
             ET.SubElement(item_elem, "description").text = item_data.get("description", "")
             
             pub_date_elem = ET.SubElement(item_elem, "pubDate")
-            pub_date_elem.text = formatdate(parse_date(item_data).timestamp())
+            
+            # Ensure the date is parsed and then formatted consistently
+            parsed_date = parse_date(item_data)
+            if parsed_date != datetime.min:
+                pub_date_elem.text = formatdate(parsed_date.timestamp())
+            else:
+                pub_date_elem.text = "No Date Available"
 
             channel.append(item_elem)
 
