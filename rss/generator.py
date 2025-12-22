@@ -4,17 +4,17 @@ from email.utils import formatdate
 from typing import List, Dict, Any, Optional
 
 class RssGenerator:
-    def __init__(self, filename: str, channel_title: str, channel_link: str, channel_description: str):
+    def __init__(self, filename: str, channel_title: str, channel_link: str, channel_description: str, feed_url: str):
         self.filename = filename
         self.channel_title = channel_title
         self.channel_link = channel_link
         self.channel_description = channel_description
+        self.feed_url = feed_url
 
     def generate(self, all_items: List[Dict[str, Any]], max_items: int = 50):
         print(f"Generating RSS feed at {self.filename}...")
 
         # Sort items by date (newest first)
-        # We need a robust date parser here.
         def parse_date(item):
             date_str = item.get("date")
             if not date_str:
@@ -27,7 +27,7 @@ class RssGenerator:
                     # Fallback for other formats if necessary
                     return datetime.fromisoformat(date_str)
                 except ValueError:
-                    return datetime.min # or now()
+                    return datetime.min
 
         sorted_item_data = sorted(all_items, key=parse_date, reverse=True)
 
@@ -40,9 +40,9 @@ class RssGenerator:
         ET.SubElement(channel, "description").text = self.channel_description
         ET.SubElement(channel, "lastBuildDate").text = formatdate(datetime.now().timestamp())
         
-        # Add self-referencing atom link
+        # Add self-referencing atom link with the absolute URL
         atom_link = ET.SubElement(channel, "atom:link")
-        atom_link.set("href", self.filename)
+        atom_link.set("href", self.feed_url)
         atom_link.set("rel", "self")
         atom_link.set("type", "application/rss+xml")
 

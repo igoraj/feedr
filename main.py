@@ -23,7 +23,8 @@ def main():
         filename=config.RSS_FILENAME,
         channel_title=config.RSS_CHANNEL_TITLE,
         channel_link=config.RSS_CHANNEL_LINK,
-        channel_description=config.RSS_CHANNEL_DESCRIPTION
+        channel_description=config.RSS_CHANNEL_DESCRIPTION,
+        feed_url=config.RSS_FEED_URL
     )
     
     # Generate the RSS feed using all items
