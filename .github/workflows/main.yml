@@ -10,13 +10,18 @@ on:
       - main
       - master
 
-  # Runs every day at midnight UTC
   schedule:
-    - cron: '0 0 * * *'
+    # Runs every hour during work weeks (Mon-Fri) between 7 AM and 4 PM UTC
+    - cron: '0 7-16 * * 1-5'
 
 jobs:
   build-and-commit:
     runs-on: ubuntu-latest
+
+    # Grant write permission to the job to allow committing back to the repo
+    permissions:
+      contents: write
+
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
