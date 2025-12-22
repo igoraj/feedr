@@ -4,7 +4,7 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description>Monitored updates for specific medicines from the European Medicines Agency.</description>
-    <lastBuildDate>Mon, 22 Dec 2025 07:23:37 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 07:47:27 -0000</lastBuildDate>
     <atom:link href="ema_updates.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human medicines European public assessment report (EPAR): Qtern, saxagliptin,dapagliflozin, Date of authorisation: 15/07/2016, Revision: 14, Status: Authorised</title>
@@ -152,6 +152,20 @@
       <guid>https://www.ema.europa.eu/en/medicines/human/EPAR/saxenda</guid>
       <description>Human medicines European public assessment report (EPAR): Saxenda, liraglutide, Date of authorisation: 23/03/2015, Revision: 19, Status: Authorised</description>
       <pubDate>Thu, 31 Jul 2025 15:09:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Apremilast Accord, apremilast, Date of authorisation: 19/04/2024, Revision: 1, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/apremilast-accord</link>
+      <guid>https://www.ema.europa.eu/en/medicines/human/EPAR/apremilast-accord</guid>
+      <description>Human medicines European public assessment report (EPAR): Apremilast Accord, apremilast, Date of authorisation: 19/04/2024, Revision: 1, Status: Authorised</description>
+      <pubDate>Fri, 18 Jul 2025 14:47:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Otezla, apremilast, Date of authorisation: 15/01/2015, Revision: 24, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/otezla</link>
+      <guid>https://www.ema.europa.eu/en/medicines/human/EPAR/otezla</guid>
+      <description>Human medicines European public assessment report (EPAR): Otezla, apremilast, Date of authorisation: 15/01/2015, Revision: 24, Status: Authorised</description>
+      <pubDate>Wed, 16 Jul 2025 08:53:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
