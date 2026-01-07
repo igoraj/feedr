@@ -1,5 +1,5 @@
 # List of substances to monitor on the EMA website
-SUBSTANCES = ["semaglutide", "liraglutide", "tirzepatide", "dapagliflozin", "sitagliptin", "apremilast"]
+SUBSTANCES = ["semaglutide", "liraglutide", "tirzepatide", "dapagliflozin", "sitagliptin", "apremilast", "canagliflozin", "empagliflozin", "gliclazide","glimepiride", "linagliptin", "metformin", "repaglinide", "vildagliptin", "orforglipron", "retatrutide"]
 
 # RSS Feed Configuration
 RSS_FILENAME = "ema_updates.xml"
