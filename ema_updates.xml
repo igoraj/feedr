@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Wed, 14 Jan 2026 15:15:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 12:55:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 25, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 25, Status: Authorised]]></description>
+      <pubDate>Fri, 16 Jan 2026 12:55:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Otezla, apremilast, Date of authorisation: 15/01/2015, Revision: 25, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/otezla</link>
@@ -19,13 +26,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/apremilast-accord</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Apremilast Accord, apremilast, Date of authorisation: 19/04/2024, Revision: 2, Status: Authorised]]></description>
       <pubDate>Wed, 07 Jan 2026 13:38:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Jalra, vildagliptin, Date of authorisation: 19/11/2008, Revision: 26, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jalra</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jalra</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Jalra, vildagliptin, Date of authorisation: 19/11/2008, Revision: 26, Status: Authorised]]></description>
-      <pubDate>Mon, 05 Jan 2026 16:45:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 24, Status: Authorised</title>
@@ -98,32 +98,11 @@
       <pubDate>Mon, 08 Dec 2025 10:32:00 -0000</pubDate>
     </item>
     <item>
-      <title>Human medicines European public assessment report (EPAR): Eucreas, vildagliptin,metformin, Date of authorisation: 14/11/2007, Revision: 27, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/eucreas</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/eucreas</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Eucreas, vildagliptin,metformin, Date of authorisation: 14/11/2007, Revision: 27, Status: Authorised]]></description>
-      <pubDate>Mon, 08 Dec 2025 10:32:00 -0000</pubDate>
-    </item>
-    <item>
       <title>Human medicines European public assessment report (EPAR): Icandra (previously Vildagliptin / metformin hydrochloride Novartis), vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 29, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/icandra</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/icandra</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Icandra (previously Vildagliptin / metformin hydrochloride Novartis), vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 29, Status: Authorised]]></description>
       <pubDate>Fri, 05 Dec 2025 14:45:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Icandra (previously Vildagliptin / metformin hydrochloride Novartis), vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 29, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/icandra</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/icandra</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Icandra (previously Vildagliptin / metformin hydrochloride Novartis), vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 29, Status: Authorised]]></description>
-      <pubDate>Fri, 05 Dec 2025 14:45:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/zomarist</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/zomarist</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised]]></description>
-      <pubDate>Fri, 05 Dec 2025 14:35:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised</title>
@@ -313,13 +292,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/saxenda</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Saxenda, liraglutide, Date of authorisation: 23/03/2015, Revision: 19, Status: Authorised]]></description>
       <pubDate>Thu, 31 Jul 2025 15:09:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Vildagliptin / Metformin hydrochloride Accord, vildagliptin,metformin hydrochloride, Date of authorisation: 24/03/2022, Revision: 4, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/vildagliptin-metformin-hydrochloride-accord</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/vildagliptin-metformin-hydrochloride-accord</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Vildagliptin / Metformin hydrochloride Accord, vildagliptin,metformin hydrochloride, Date of authorisation: 24/03/2022, Revision: 4, Status: Authorised]]></description>
-      <pubDate>Fri, 25 Jul 2025 15:30:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Vildagliptin / Metformin hydrochloride Accord, vildagliptin,metformin hydrochloride, Date of authorisation: 24/03/2022, Revision: 4, Status: Authorised</title>
