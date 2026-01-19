@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Fri, 16 Jan 2026 12:55:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 12:06:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wegovy : EPAR - Product Information</title>
+      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_4.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_4.pdf</guid>
+      <description><![CDATA[Wegovy : EPAR - Product Information]]></description>
+      <pubDate>Mon, 19 Jan 2026 12:06:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 25, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</link>
@@ -280,17 +287,10 @@
       <pubDate>Tue, 30 Sep 2025 13:27:00 -0000</pubDate>
     </item>
     <item>
-      <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 12, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 12, Status: Authorised]]></description>
-      <pubDate>Tue, 30 Sep 2025 11:49:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Rybelsus, semaglutide, Date of authorisation: 03/04/2020, Revision: 15, Status: Authorised</title>
+      <title>Human medicines European public assessment report (EPAR): Rybelsus, semaglutide, Date of authorisation: 03/04/2020, Revision: 16, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Rybelsus, semaglutide, Date of authorisation: 03/04/2020, Revision: 15, Status: Authorised]]></description>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Rybelsus, semaglutide, Date of authorisation: 03/04/2020, Revision: 16, Status: Authorised]]></description>
       <pubDate>Tue, 30 Sep 2025 11:39:00 -0000</pubDate>
     </item>
     <item>
