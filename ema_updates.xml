@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Tue, 27 Jan 2026 15:25:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 11:00:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 18, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 18, Status: Authorised]]></description>
+      <pubDate>Fri, 30 Jan 2026 11:00:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Rybelsus, semaglutide, Date of authorisation: 03/04/2020, Revision: 17, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus</link>
@@ -117,13 +124,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/invokana</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Invokana, canagliflozin, Date of authorisation: 15/11/2013, Revision: 27, Status: Authorised]]></description>
       <pubDate>Thu, 18 Dec 2025 09:46:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Summary of opinion: Mounjaro, 11/12/2025 Positive</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/variation/mounjaro</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/variation/mounjaro</guid>
-      <description><![CDATA[Summary of opinion: Mounjaro, 11/12/2025 Positive]]></description>
-      <pubDate>Fri, 12 Dec 2025 13:00:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Eucreas, vildagliptin,metformin, Date of authorisation: 14/11/2007, Revision: 27, Status: Authorised</title>
