@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Fri, 30 Jan 2026 11:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 12:57:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 14, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 14, Status: Authorised]]></description>
+      <pubDate>Thu, 05 Feb 2026 12:57:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Kayshild, semaglutide, Status: Opinion</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/kayshild</link>
@@ -42,13 +49,6 @@
       <pubDate>Mon, 26 Jan 2026 13:10:00 -0000</pubDate>
     </item>
     <item>
-      <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 13, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 13, Status: Authorised]]></description>
-      <pubDate>Mon, 19 Jan 2026 16:35:00 -0000</pubDate>
-    </item>
-    <item>
       <title>Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 25, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</guid>
@@ -75,13 +75,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jalra</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Jalra, vildagliptin, Date of authorisation: 19/11/2008, Revision: 26, Status: Authorised]]></description>
       <pubDate>Mon, 05 Jan 2026 16:45:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Xiliarx, vildagliptin, Date of authorisation: 19/11/2008, Revision: 25, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/xiliarx</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/xiliarx</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Xiliarx, vildagliptin, Date of authorisation: 19/11/2008, Revision: 25, Status: Authorised]]></description>
-      <pubDate>Mon, 05 Jan 2026 15:30:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 24, Status: Authorised</title>
@@ -229,13 +222,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/steglujan</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Steglujan, ertugliflozin,sitagliptin, Date of authorisation: 23/03/2018, Revision: 14, Status: Authorised]]></description>
       <pubDate>Fri, 21 Nov 2025 14:58:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Segluromet, ertugliflozin,metformin hydrochloride, Date of authorisation: 23/03/2018, Revision: 10, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/segluromet</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/segluromet</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Segluromet, ertugliflozin,metformin hydrochloride, Date of authorisation: 23/03/2018, Revision: 10, Status: Authorised]]></description>
-      <pubDate>Fri, 21 Nov 2025 14:46:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Synjardy, empagliflozin,metformin, Date of authorisation: 27/05/2015, Revision: 32, Status: Authorised</title>
