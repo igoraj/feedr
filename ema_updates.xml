@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Fri, 06 Feb 2026 12:40:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 12:16:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Kyinsu, insulin icodec,semaglutide, Date of authorisation: 24/11/2025, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/kyinsu</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/kyinsu</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Kyinsu, insulin icodec,semaglutide, Date of authorisation: 24/11/2025, Status: Authorised]]></description>
+      <pubDate>Thu, 12 Feb 2026 12:16:00 -0000</pubDate>
+    </item>
     <item>
       <title>Mounjaro : EPAR - Product Information</title>
       <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5620_en_6.pdf</link>
@@ -70,17 +77,17 @@
       <pubDate>Wed, 07 Jan 2026 13:38:00 -0000</pubDate>
     </item>
     <item>
-      <title>Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 24, Status: Authorised</title>
+      <title>Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 24, Status: Authorised]]></description>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised]]></description>
       <pubDate>Thu, 18 Dec 2025 14:15:00 -0000</pubDate>
     </item>
     <item>
-      <title>Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 24, Status: Authorised</title>
+      <title>Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 24, Status: Authorised]]></description>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised]]></description>
       <pubDate>Thu, 18 Dec 2025 14:15:00 -0000</pubDate>
     </item>
     <item>
@@ -313,13 +320,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/sitagliptin-metformin-hydrochloride-mylan</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Sitagliptin / Metformin hydrochloride Mylan, sitagliptin hydrochloride monohydrate,metformin hydrochloride, Date of authorisation: 16/02/2022, Revision: 6, Status: Authorised]]></description>
       <pubDate>Tue, 30 Sep 2025 13:27:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Kyinsu, insulin icodec,semaglutide, Date of authorisation: 24/11/2025, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/kyinsu</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/kyinsu</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Kyinsu, insulin icodec,semaglutide, Date of authorisation: 24/11/2025, Status: Authorised]]></description>
-      <pubDate>Fri, 19 Sep 2025 10:00:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
