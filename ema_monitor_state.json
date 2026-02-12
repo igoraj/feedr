@@ -24,7 +24,7 @@
     "Otezla": "Wed, 14 Jan 2026 16:15:00 +0100_Human medicines European public assessment report (EPAR): Otezla, apremilast, Date of authorisation: 15/01/2015, Revision: 25, Status: Authorised",
     "Invokana": "Thu, 18 Dec 2025 10:46:00 +0100_Human medicines European public assessment report (EPAR): Invokana, canagliflozin, Date of authorisation: 15/11/2013, Revision: 27, Status: Authorised",
     "Synjardy": "Wed, 19 Nov 2025 12:50:00 +0100_Human medicines European public assessment report (EPAR): Synjardy, empagliflozin,metformin, Date of authorisation: 27/05/2015, Revision: 32, Status: Authorised",
-    "Jentadueto": "Thu, 18 Dec 2025 15:15:00 +0100_Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised",
+    "Jentadueto": "Thu, 12 Feb 2026 13:42:00 +0100_Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised",
     "Eucreas": "Mon, 08 Dec 2025 11:32:00 +0100_Human medicines European public assessment report (EPAR): Eucreas, vildagliptin,metformin, Date of authorisation: 14/11/2007, Revision: 27, Status: Authorised",
     "Icandra (previously Vildagliptin / metformin hydrochloride Novartis)": "Fri, 05 Dec 2025 15:45:00 +0100_Human medicines European public assessment report (EPAR): Icandra (previously Vildagliptin / metformin hydrochloride Novartis), vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 29, Status: Authorised",
     "Zomarist": "Fri, 05 Dec 2025 15:35:00 +0100_Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised",
@@ -34,5 +34,7 @@
     "Xiliarx": "Mon, 05 Jan 2026 16:30:00 +0100_Human medicines European public assessment report (EPAR): Xiliarx, vildagliptin, Date of authorisation: 19/11/2008, Revision: 25, Status: Authorised",
     "Victoza": "Fri, 16 Jan 2026 13:55:00 +0100_Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 25, Status: Authorised",
     "Dapagliflozin Viatris": "Mon, 26 Jan 2026 14:10:00 +0100_Human medicines European public assessment report (EPAR): Dapagliflozin Viatris, dapagliflozin, Date of authorisation: 24/03/2023, Revision: 5, Status: Authorised",
-    "Kayshild": "Fri, 30 Jan 2026 12:00:00 +0100_Human medicines European public assessment report (EPAR): Kayshild, semaglutide, Status: Opinion"
+    "Kayshild": "Fri, 30 Jan 2026 12:00:00 +0100_Human medicines European public assessment report (EPAR): Kayshild, semaglutide, Status: Opinion",
+    "Glyxambi": "Thu, 12 Feb 2026 13:46:00 +0100_Human medicines European public assessment report (EPAR): Glyxambi, empagliflozin,linagliptin, Date of authorisation: 11/11/2016, Revision: 22, Status: Authorised",
+    "Trajenta": "Thu, 12 Feb 2026 13:40:00 +0100_Human medicines European public assessment report (EPAR): Trajenta, linagliptin, Date of authorisation: 23/08/2011, Revision: 23, Status: Authorised"
 }
