@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Fri, 20 Feb 2026 12:48:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:32:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised]]></description>
+      <pubDate>Thu, 26 Feb 2026 15:32:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Apremilast Accord, apremilast, Date of authorisation: 19/04/2024, Revision: 3, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/apremilast-accord</link>
@@ -56,13 +63,6 @@
       <pubDate>Thu, 12 Feb 2026 12:16:00 -0000</pubDate>
     </item>
     <item>
-      <title>Mounjaro : EPAR - Product Information</title>
-      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5620_en_6.pdf</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5620_en_6.pdf</guid>
-      <description><![CDATA[Mounjaro : EPAR - Product Information]]></description>
-      <pubDate>Fri, 06 Feb 2026 12:40:00 -0000</pubDate>
-    </item>
-    <item>
       <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 14, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
@@ -110,6 +110,13 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/otezla</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Otezla, apremilast, Date of authorisation: 15/01/2015, Revision: 25, Status: Authorised]]></description>
       <pubDate>Wed, 14 Jan 2026 15:15:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Jalra, vildagliptin, Date of authorisation: 19/11/2008, Revision: 26, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jalra</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jalra</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Jalra, vildagliptin, Date of authorisation: 19/11/2008, Revision: 26, Status: Authorised]]></description>
+      <pubDate>Mon, 05 Jan 2026 16:45:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Qtern, saxagliptin,dapagliflozin, Date of authorisation: 15/07/2016, Revision: 14, Status: Authorised</title>
@@ -180,13 +187,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/icandra</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Icandra (previously Vildagliptin / metformin hydrochloride Novartis), vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 29, Status: Authorised]]></description>
       <pubDate>Fri, 05 Dec 2025 14:45:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/zomarist</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/zomarist</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised]]></description>
-      <pubDate>Fri, 05 Dec 2025 14:35:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised</title>
