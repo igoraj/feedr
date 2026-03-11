@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Wed, 04 Mar 2026 14:25:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:06:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wegovy : EPAR - Product Information</title>
+      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_6.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_6.pdf</guid>
+      <description><![CDATA[Wegovy : EPAR - Product Information]]></description>
+      <pubDate>Wed, 11 Mar 2026 12:06:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Otezla, apremilast, Date of authorisation: 15/01/2015, Revision: 25, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/otezla</link>
@@ -68,13 +75,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/kyinsu</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Kyinsu, insulin icodec,semaglutide, Date of authorisation: 24/11/2025, Status: Authorised]]></description>
       <pubDate>Thu, 12 Feb 2026 12:16:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 14, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 14, Status: Authorised]]></description>
-      <pubDate>Thu, 05 Feb 2026 12:57:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Kayshild, semaglutide, Status: Opinion</title>
