@@ -175,13 +175,6 @@
       <pubDate>Mon, 05 Jan 2026 16:45:00 -0000</pubDate>
     </item>
     <item>
-      <title>Human medicines European public assessment report (EPAR): Xiliarx, vildagliptin, Date of authorisation: 19/11/2008, Revision: 25, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/xiliarx</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/xiliarx</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Xiliarx, vildagliptin, Date of authorisation: 19/11/2008, Revision: 25, Status: Authorised]]></description>
-      <pubDate>Mon, 05 Jan 2026 15:30:00 -0000</pubDate>
-    </item>
-    <item>
       <title>Human medicines European public assessment report (EPAR): Invokana, canagliflozin, Date of authorisation: 15/11/2013, Revision: 27, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/invokana</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/invokana</guid>
@@ -355,6 +348,13 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/januvia</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Januvia, sitagliptin, Date of authorisation: 20/03/2007, Revision: 35, Status: Authorised]]></description>
       <pubDate>Fri, 31 Oct 2025 10:13:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Ristaben, sitagliptin, Date of authorisation: 15/03/2010, Revision: 30, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ristaben</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ristaben</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Ristaben, sitagliptin, Date of authorisation: 15/03/2010, Revision: 30, Status: Authorised]]></description>
+      <pubDate>Thu, 30 Oct 2025 15:36:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
