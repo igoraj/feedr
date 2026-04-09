@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Mon, 30 Mar 2026 14:50:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 14:38:42 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kayshild : EPAR - Product information</title>
+      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-6426-en.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-6426-en.pdf</guid>
+      <description><![CDATA[Kayshild : EPAR - Product information]]></description>
+      <pubDate>Thu, 09 Apr 2026 14:38:42 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Glyxambi, empagliflozin,linagliptin, Date of authorisation: 11/11/2016, Revision: 23, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/glyxambi</link>
@@ -140,13 +147,6 @@
       <pubDate>Thu, 12 Feb 2026 12:16:00 -0000</pubDate>
     </item>
     <item>
-      <title>Human medicines European public assessment report (EPAR): Kayshild, semaglutide, Status: Opinion</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/kayshild</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/kayshild</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Kayshild, semaglutide, Status: Opinion]]></description>
-      <pubDate>Fri, 30 Jan 2026 11:00:00 -0000</pubDate>
-    </item>
-    <item>
       <title>Human medicines European public assessment report (EPAR): Rybelsus, semaglutide, Date of authorisation: 03/04/2020, Revision: 17, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus</guid>
@@ -166,13 +166,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 25, Status: Authorised]]></description>
       <pubDate>Fri, 16 Jan 2026 12:55:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Jalra, vildagliptin, Date of authorisation: 19/11/2008, Revision: 26, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jalra</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jalra</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Jalra, vildagliptin, Date of authorisation: 19/11/2008, Revision: 26, Status: Authorised]]></description>
-      <pubDate>Mon, 05 Jan 2026 16:45:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Invokana, canagliflozin, Date of authorisation: 15/11/2013, Revision: 27, Status: Authorised</title>
@@ -208,6 +201,13 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/icandra</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Icandra (previously Vildagliptin / metformin hydrochloride Novartis), vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 29, Status: Authorised]]></description>
       <pubDate>Fri, 05 Dec 2025 14:45:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/zomarist</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/zomarist</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised]]></description>
+      <pubDate>Fri, 05 Dec 2025 14:35:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Zomarist, vildagliptin,metformin, Date of authorisation: 30/11/2008, Revision: 27, Status: Authorised</title>
@@ -264,6 +264,13 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/steglujan</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Steglujan, ertugliflozin,sitagliptin, Date of authorisation: 23/03/2018, Revision: 14, Status: Authorised]]></description>
       <pubDate>Fri, 21 Nov 2025 14:58:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Segluromet, ertugliflozin,metformin hydrochloride, Date of authorisation: 23/03/2018, Revision: 10, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/segluromet</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/segluromet</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Segluromet, ertugliflozin,metformin hydrochloride, Date of authorisation: 23/03/2018, Revision: 10, Status: Authorised]]></description>
+      <pubDate>Fri, 21 Nov 2025 14:46:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Synjardy, empagliflozin,metformin, Date of authorisation: 27/05/2015, Revision: 32, Status: Authorised</title>
