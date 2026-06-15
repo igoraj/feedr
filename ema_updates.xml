@@ -4,8 +4,22 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Thu, 11 Jun 2026 13:32:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:00:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sitagliptin / Metformin hydrochloride Mylan : EPAR - Product Information</title>
+      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5678_en_1.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5678_en_1.pdf</guid>
+      <description><![CDATA[Sitagliptin / Metformin hydrochloride Mylan : EPAR - Product Information]]></description>
+      <pubDate>Mon, 15 Jun 2026 13:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sitagliptin / Metformin hydrochloride Mylan : EPAR - Product Information</title>
+      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5678_en_1.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5678_en_1.pdf</guid>
+      <description><![CDATA[Sitagliptin / Metformin hydrochloride Mylan : EPAR - Product Information]]></description>
+      <pubDate>Mon, 15 Jun 2026 13:00:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Qtern, saxagliptin,dapagliflozin, Date of authorisation: 15/07/2016, Revision: 16, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/qtern</link>
