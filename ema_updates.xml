@@ -4,14 +4,7 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Thu, 26 Feb 2026 15:32:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:12:31 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised]]></description>
-      <pubDate>Thu, 26 Feb 2026 15:32:00 -0000</pubDate>
-    </item>
   </channel>
 </rss>
