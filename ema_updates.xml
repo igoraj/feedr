@@ -4,35 +4,7 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Fri, 05 Jun 2026 13:03:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:14:02 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised]]></description>
-      <pubDate>Fri, 05 Jun 2026 13:03:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised]]></description>
-      <pubDate>Fri, 05 Jun 2026 13:03:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 21, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 21, Status: Authorised]]></description>
-      <pubDate>Wed, 22 Apr 2026 13:40:30 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised]]></description>
-      <pubDate>Thu, 26 Feb 2026 15:32:00 -0000</pubDate>
-    </item>
   </channel>
 </rss>
