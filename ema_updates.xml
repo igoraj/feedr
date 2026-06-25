@@ -4,42 +4,7 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Fri, 05 Jun 2026 13:03:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:09:37 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised]]></description>
-      <pubDate>Fri, 05 Jun 2026 13:03:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised]]></description>
-      <pubDate>Fri, 05 Jun 2026 13:03:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Summary of opinion: Wegovy, 21/05/2026 Positive</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/variation/wegovy</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/variation/wegovy</guid>
-      <description><![CDATA[Summary of opinion: Wegovy, 21/05/2026 Positive]]></description>
-      <pubDate>Fri, 22 May 2026 10:00:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Jardiance, empagliflozin, Date of authorisation: 22/05/2014, Revision: 33, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jardiance</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jardiance</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Jardiance, empagliflozin, Date of authorisation: 22/05/2014, Revision: 33, Status: Authorised]]></description>
-      <pubDate>Tue, 24 Mar 2026 13:40:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Trajenta, linagliptin, Date of authorisation: 23/08/2011, Revision: 23, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/trajenta</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/trajenta</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Trajenta, linagliptin, Date of authorisation: 23/08/2011, Revision: 23, Status: Authorised]]></description>
-      <pubDate>Thu, 12 Feb 2026 12:40:00 -0000</pubDate>
-    </item>
   </channel>
 </rss>
