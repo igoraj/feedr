@@ -4,7 +4,7 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Tue, 30 Jun 2026 16:14:11 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:35:54 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
   </channel>
 </rss>
