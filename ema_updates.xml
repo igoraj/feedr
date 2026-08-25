@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Tue, 18 Aug 2026 14:18:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:40:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Liraglutide STADA, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/liraglutide-stada</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/liraglutide-stada</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Liraglutide STADA, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised]]></description>
+      <pubDate>Tue, 25 Aug 2026 12:40:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
@@ -28,10 +35,10 @@
       <pubDate>Thu, 06 Aug 2026 15:40:00 -0000</pubDate>
     </item>
     <item>
-      <title>Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 21, Status: Authorised</title>
+      <title>Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 22, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 21, Status: Authorised]]></description>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 22, Status: Authorised]]></description>
       <pubDate>Fri, 10 Jul 2026 09:29:00 -0000</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Status: Opinion]]></description>
-      <pubDate>Fri, 22 May 2026 10:00:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Liraglutide STADA, liraglutide, Status: Opinion</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/liraglutide-stada</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/liraglutide-stada</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Liraglutide STADA, liraglutide, Status: Opinion]]></description>
       <pubDate>Fri, 22 May 2026 10:00:00 -0000</pubDate>
     </item>
     <item>
