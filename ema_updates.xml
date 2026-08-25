@@ -4,8 +4,22 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Tue, 25 Aug 2026 12:40:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:17:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised]]></description>
+      <pubDate>Tue, 25 Aug 2026 15:17:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 22, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 22, Status: Authorised]]></description>
+      <pubDate>Tue, 25 Aug 2026 14:40:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Liraglutide STADA, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/liraglutide-stada</link>
@@ -33,13 +47,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/synjardy</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Synjardy, empagliflozin,metformin, Date of authorisation: 27/05/2015, Revision: 33, Status: Authorised]]></description>
       <pubDate>Thu, 06 Aug 2026 15:40:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 22, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Ozempic, semaglutide, Date of authorisation: 08/02/2018, Revision: 22, Status: Authorised]]></description>
-      <pubDate>Fri, 10 Jul 2026 09:29:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Trajenta, linagliptin, Date of authorisation: 23/08/2011, Revision: 24, Status: Authorised</title>
@@ -91,6 +98,20 @@
       <pubDate>Thu, 11 Jun 2026 08:45:00 -0000</pubDate>
     </item>
     <item>
+      <title>Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 26, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 26, Status: Authorised]]></description>
+      <pubDate>Mon, 08 Jun 2026 10:22:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 26, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 26, Status: Authorised]]></description>
+      <pubDate>Mon, 08 Jun 2026 10:22:02 -0000</pubDate>
+    </item>
+    <item>
       <title>Human medicines European public assessment report (EPAR): Ebymect, dapagliflozin,metformin, Date of authorisation: 15/11/2015, Revision: 25, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ebymect</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ebymect</guid>
@@ -123,13 +144,6 @@
       <link>https://www.ema.europa.eu/en/medicines/human/variation/wegovy</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/variation/wegovy</guid>
       <description><![CDATA[Summary of opinion: Wegovy, 21/05/2026 Positive]]></description>
-      <pubDate>Fri, 22 May 2026 10:00:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Status: Opinion</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Status: Opinion]]></description>
       <pubDate>Fri, 22 May 2026 10:00:00 -0000</pubDate>
     </item>
     <item>
