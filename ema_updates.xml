@@ -4,8 +4,15 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Tue, 25 Aug 2026 15:17:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:06:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wegovy : EPAR - Product Information</title>
+      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_9.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_9.pdf</guid>
+      <description><![CDATA[Wegovy : EPAR - Product Information]]></description>
+      <pubDate>Wed, 26 Aug 2026 11:06:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Xigduo, dapagliflozin,metformin, Date of authorisation: 16/01/2014, Revision: 27, Status: Authorised]]></description>
       <pubDate>Fri, 05 Jun 2026 13:03:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Summary of opinion: Wegovy, 21/05/2026 Positive</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/variation/wegovy</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/variation/wegovy</guid>
-      <description><![CDATA[Summary of opinion: Wegovy, 21/05/2026 Positive]]></description>
-      <pubDate>Fri, 22 May 2026 10:00:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Dapagliflozin Viatris, dapagliflozin, Date of authorisation: 24/03/2023, Revision: 6, Status: Authorised</title>
