@@ -4,28 +4,28 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Fri, 11 Sep 2026 15:05:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:40:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mounjaro : EPAR - Product Information</title>
+      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5620-en.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5620-en.pdf</guid>
+      <description><![CDATA[Mounjaro : EPAR - Product Information]]></description>
+      <pubDate>Mon, 21 Sep 2026 11:40:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Wegovy : EPAR - Product Information</title>
+      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_0.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_0.pdf</guid>
+      <description><![CDATA[Wegovy : EPAR - Product Information]]></description>
+      <pubDate>Mon, 21 Sep 2026 11:06:00 -0000</pubDate>
+    </item>
     <item>
       <title>Repaglinide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)</title>
       <link>https://www.ema.europa.eu/system/files/documents/procedural-steps-after/repaglinide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/procedural-steps-after/repaglinide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf</guid>
       <description><![CDATA[Repaglinide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)]]></description>
       <pubDate>Fri, 11 Sep 2026 15:05:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 21, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 21, Status: Authorised]]></description>
-      <pubDate>Fri, 28 Aug 2026 13:08:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Wegovy : EPAR - Product Information</title>
-      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_9.pdf</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_9.pdf</guid>
-      <description><![CDATA[Wegovy : EPAR - Product Information]]></description>
-      <pubDate>Wed, 26 Aug 2026 11:06:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised</title>
@@ -187,13 +187,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/glyxambi</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Glyxambi, empagliflozin,linagliptin, Date of authorisation: 11/11/2016, Revision: 23, Status: Authorised]]></description>
       <pubDate>Mon, 30 Mar 2026 14:50:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Jardiance, empagliflozin, Date of authorisation: 22/05/2014, Revision: 33, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/jardiance</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/jardiance</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Jardiance, empagliflozin, Date of authorisation: 22/05/2014, Revision: 33, Status: Authorised]]></description>
-      <pubDate>Tue, 24 Mar 2026 13:40:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
