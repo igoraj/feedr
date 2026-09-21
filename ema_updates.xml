@@ -4,21 +4,21 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Mon, 21 Sep 2026 11:40:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:46:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mounjaro : EPAR - Product Information</title>
-      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5620-en.pdf</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5620-en.pdf</guid>
-      <description><![CDATA[Mounjaro : EPAR - Product Information]]></description>
-      <pubDate>Mon, 21 Sep 2026 11:40:00 -0000</pubDate>
+      <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 22, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 22, Status: Authorised]]></description>
+      <pubDate>Mon, 21 Sep 2026 14:46:00 -0000</pubDate>
     </item>
     <item>
-      <title>Wegovy : EPAR - Product Information</title>
-      <link>https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_0.pdf</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/product-information/ema-combined-h-5422-en_0.pdf</guid>
-      <description><![CDATA[Wegovy : EPAR - Product Information]]></description>
-      <pubDate>Mon, 21 Sep 2026 11:06:00 -0000</pubDate>
+      <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 19, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 19, Status: Authorised]]></description>
+      <pubDate>Mon, 21 Sep 2026 14:20:00 -0000</pubDate>
     </item>
     <item>
       <title>Repaglinide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)</title>
