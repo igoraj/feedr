@@ -4,14 +4,14 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Mon, 21 Sep 2026 14:46:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:48:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 22, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 22, Status: Authorised]]></description>
-      <pubDate>Mon, 21 Sep 2026 14:46:00 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 11:48:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 19, Status: Authorised</title>
@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 19, Status: Authorised]]></description>
       <pubDate>Mon, 21 Sep 2026 14:20:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Repaglinide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)</title>
+      <link>https://www.ema.europa.eu/system/files/documents/procedural-steps-after/repaglinide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/procedural-steps-after/repaglinide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf</guid>
+      <description><![CDATA[Repaglinide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)]]></description>
+      <pubDate>Fri, 11 Sep 2026 15:05:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised</title>
