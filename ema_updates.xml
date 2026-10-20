@@ -4,20 +4,20 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Fri, 16 Oct 2026 10:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:35:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 26, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 26, Status: Authorised]]></description>
+      <pubDate>Tue, 20 Oct 2026 11:35:00 -0000</pubDate>
+    </item>
     <item>
       <title>Summary of opinion: Kyinsu, 15/10/2026 Positive</title>
       <link>https://www.ema.europa.eu/en/medicines/human/variation/kyinsu</link>
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/variation/kyinsu</guid>
       <description><![CDATA[Summary of opinion: Kyinsu, 15/10/2026 Positive]]></description>
-      <pubDate>Fri, 16 Oct 2026 10:00:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Foundayo, Orforglipron, Status: Opinion</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/foundayo</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/foundayo</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Foundayo, Orforglipron, Status: Opinion]]></description>
       <pubDate>Fri, 16 Oct 2026 10:00:00 -0000</pubDate>
     </item>
     <item>
@@ -33,13 +33,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 19, Status: Authorised]]></description>
       <pubDate>Mon, 21 Sep 2026 14:20:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Repaglinide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)</title>
-      <link>https://www.ema.europa.eu/system/files/documents/procedural-steps-after/repaglinide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/system/files/documents/procedural-steps-after/repaglinide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf</guid>
-      <description><![CDATA[Repaglinide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)]]></description>
-      <pubDate>Fri, 11 Sep 2026 15:05:00 -0000</pubDate>
     </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Ablymico, liraglutide, Date of authorisation: 15/07/2026, Status: Authorised</title>
@@ -173,13 +166,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/dapagliflozin-viatris</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Dapagliflozin Viatris, dapagliflozin, Date of authorisation: 24/03/2023, Revision: 6, Status: Authorised]]></description>
       <pubDate>Thu, 07 May 2026 15:10:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Rybelsus, semaglutide, Date of authorisation: 03/04/2020, Revision: 17, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Rybelsus, semaglutide, Date of authorisation: 03/04/2020, Revision: 17, Status: Authorised]]></description>
-      <pubDate>Wed, 22 Apr 2026 13:40:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
