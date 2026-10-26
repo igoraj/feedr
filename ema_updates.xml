@@ -4,8 +4,36 @@
     <title>EMA Medicine Updates</title>
     <link>https://www.ema.europa.eu/en/medicines</link>
     <description><![CDATA[Monitored updates for specific medicines from the European Medicines Agency.]]></description>
-    <lastBuildDate>Tue, 20 Oct 2026 11:35:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:25:00 -0000</lastBuildDate>
     <atom:link href="https://igoraj.github.io/feedr/ema_updates.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Vokanamet, canagliflozin,metformin, Date of authorisation: 23/04/2014, Revision: 26, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/vokanamet</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/vokanamet</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Vokanamet, canagliflozin,metformin, Date of authorisation: 23/04/2014, Revision: 26, Status: Authorised]]></description>
+      <pubDate>Mon, 26 Oct 2026 16:25:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Vokanamet, canagliflozin,metformin, Date of authorisation: 23/04/2014, Revision: 26, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/vokanamet</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/vokanamet</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Vokanamet, canagliflozin,metformin, Date of authorisation: 23/04/2014, Revision: 26, Status: Authorised]]></description>
+      <pubDate>Mon, 26 Oct 2026 16:25:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Opinion/decision on a Paediatric investigation plan (PIP): Mounjaro, tirzepatide, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Other, PIP number: EMA/PE/0000245851</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245851</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245851</guid>
+      <description><![CDATA[Opinion/decision on a Paediatric investigation plan (PIP): Mounjaro, tirzepatide, decision type: PM: decision on the application for modification of an agreed PIP, therapeutic area: Other, PIP number: EMA/PE/0000245851]]></description>
+      <pubDate>Mon, 26 Oct 2026 16:09:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 20, Status: Authorised</title>
+      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</link>
+      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
+      <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 20, Status: Authorised]]></description>
+      <pubDate>Mon, 26 Oct 2026 15:40:00 -0000</pubDate>
+    </item>
     <item>
       <title>Human medicines European public assessment report (EPAR): Victoza, liraglutide, Date of authorisation: 30/06/2009, Revision: 26, Status: Authorised</title>
       <link>https://www.ema.europa.eu/en/medicines/human/EPAR/victoza</link>
@@ -26,20 +54,6 @@
       <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/foundayo</guid>
       <description><![CDATA[Human medicines European public assessment report (EPAR): Foundayo, Orforglipron, Status: Opinion]]></description>
       <pubDate>Fri, 16 Oct 2026 10:00:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 22, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 22, Status: Authorised]]></description>
-      <pubDate>Thu, 08 Oct 2026 11:48:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 19, Status: Authorised</title>
-      <link>https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</link>
-      <guid isPermaLink="true">https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy</guid>
-      <description><![CDATA[Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 19, Status: Authorised]]></description>
-      <pubDate>Mon, 21 Sep 2026 14:20:00 -0000</pubDate>
     </item>
     <item>
       <title>Repaglinide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)</title>
